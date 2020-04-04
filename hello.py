@@ -1,3 +1,3 @@
 def main():
     # Ubah menjadi "Hello World!"
-    return "Hello!" 
+    return "Hello World!" 
